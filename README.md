@@ -10,4 +10,4 @@ You should have received a copy of the GNU General Public License along with thi
 
 For the GNU GPL 3 see file LICENSE.
 
-This project can be used to analyse the simulation results of a large-deviation simulation of the largest components of graphs.
+This project can be used to perform a histogram glueing and analyse the simulation results of a large-deviation simulation of the largest components of graphs.
